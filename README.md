@@ -1,4 +1,4 @@
-# -Fraud-Detection-in-Ecommerce-Company
+# Fraud-Detection-in-Ecommerce-Company
 
 # Problem Description
 
